@@ -30,6 +30,6 @@ What is a great game where the goal is to collect crates ? **The cratest game** 
 ## Demo video 🎥
 Here is a link to the presentation video we made to promote the game to our friends  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NpEaa2P7qZI
-" target="_blank"><img src="http://img.youtube.com/vi/NpEaa2P7qZI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xZlHn8Drr4g
+" target="_blank"><img src="http://img.youtube.com/vi/xZlHn8Drr4g/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
