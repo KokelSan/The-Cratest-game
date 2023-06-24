@@ -1,7 +1,7 @@
 <img src="Assets/Banner.png" alt="Banner.jpg"/>
 
 ## The project 🚀
-The concept of the game is inspired by UTC’s most famous event of new students’ integration activities : the battle in the forest. It is a great moment where 4 clans are split over a large field in a forest. Each player has a ribbon attached to its thigh and the goal is simple : collect the largest number of opponent's ribbons to win the round.
+The concept of the game is inspired by UTC’s most famous event of new students’ integration activities : the Battle in the Forest. It is a great moment where 4 clans are split over a large field in a forest. Each player has a ribbon attached to its thigh and the goal is simple : collect the largest number of opponent's ribbons to win the round.
 
 I got the idea of this game when those integration activities turned online due to covid. I felt sad for new students because they would not know and live this iconic moment. In that way I wanted to translate it into an online multiplayer game, inspired by party-games such as Mario Party or Fall Guys.
 
@@ -15,7 +15,7 @@ What is a great game where the goal is to collect crates ? **The cratest game** 
 - It reinforced my knowledge of Unity and C#
 - I learned to do networking in Unity with Mirror, using Epic Games's Online Services relay
 - I understood the characteristic and requirements of networking (authority, performance, frequency etc...)
-- I wrote a questionnary to collect opinions and advice after live test sessions (50 testers).
+- I wrote a questionnary to collect opinions and advice after live test sessions (30 testers).
 
 ## Gallery 🖼️
 
