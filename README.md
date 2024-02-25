@@ -27,7 +27,7 @@ What is a great game where the goal is to collect crates ? **The cratest game** 
 :-------------------------:|:-------------------------:
 |Even if they are a family, a winner must be declared|A party with 12 players is very fun|
 
-## Demo video 🎥
+## Video 🎥
 Here is a link to the presentation video we made to promote the game to our friends  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xZlHn8Drr4g
